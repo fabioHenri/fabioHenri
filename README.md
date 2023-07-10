@@ -1,12 +1,11 @@
 ## Hello World! 
 
 My name is Fábio, I'm a Systems Analyst and digital content creator!
-<div style="display: inline_block" >
-<img width="42%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioHenri&show_icons=true&theme=highcontrast)"> 
 
- <img width="50%" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioHenri&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)">
+<img width="48%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioHenri&show_icons=true&theme=highcontrast)">
 
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioHenri&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
