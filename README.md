@@ -4,7 +4,7 @@ My name is Fábio, I'm a Systems Analyst and digital content creator!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioHenri&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioHenri&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioHenri&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
