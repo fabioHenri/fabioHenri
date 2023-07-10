@@ -3,7 +3,7 @@
 My name is Fábio, I'm a Systems Analyst and digital content creator!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioHenri&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioHenri&show_icons=true&theme=highcontrast)
 
 
 <div style="display: inline_block"><br>
