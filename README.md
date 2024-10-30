@@ -15,6 +15,7 @@ My name is Fábio, I'm a Systems Analyst and digital content creator!
     </div>
 </div>
 
+---
 ### Tools and languages
 ![Vue](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Nuxt](https://img.shields.io/badge/Nuxt-%2335495e.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=%234FC08D)
@@ -25,6 +26,7 @@ My name is Fábio, I'm a Systems Analyst and digital content creator!
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+---
 ### Social Network
 <div> 
   <a href="https://www.instagram.com/hyoogplays/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
