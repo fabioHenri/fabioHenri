@@ -9,8 +9,8 @@ My name is Fábio, I'm a Systems Analyst and digital content creator!
     </div>
     <div align="left">
       <a href="https://github.com/fabioHenri?tab=repositories">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioHenri&show_icons=true&locale=en&layout=compact&theme=gotham" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabioHenri&show_icons=true&theme=gotham&hide_height=27" alt="fabioHenri github stats"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioHenri&show_icons=true&locale=en&layout=compact&theme=dark" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabioHenri&show_icons=true&theme=dark&hide_height=27" alt="fabioHenri github stats"/>
       </a>
     </div>
 </div>
@@ -25,9 +25,7 @@ My name is Fábio, I'm a Systems Analyst and digital content creator!
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 ### Social Network
-
 <div> 
   <a href="https://www.instagram.com/hyoogplays/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/hyoogplays" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
