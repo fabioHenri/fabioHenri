@@ -1,5 +1,3 @@
-## Hello World! 
-
 My name is Fábio, I'm a Systems Analyst and digital content creator!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioHenri&show_icons=true&theme=highcontrast)
@@ -9,8 +7,7 @@ My name is Fábio, I'm a Systems Analyst and digital content creator!
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fabio-Php" height="30" width="40"  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
+  <img align="center" alt="Fabio-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
   <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -19,23 +16,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
  
 <div> 
   <a href="https://www.instagram.com/hyoogplays/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/hyoogplays" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/hyoogplays" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabiohenrique1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
 ## 💻 Some statistics 💻
 <details>
        <summary><h3>Statistics</h3></summary>
     <div align="left">
-         <a href="https://github.com/PedroHRFerreira?tab=repositories">
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=PedroHRFerreira&theme=juicyfresh&hide_langs_below=1" alt="PedroHRFerreira github stats"/>
-            <img width="800" height="220" src="https://streak-stats.demolab.com/?user=PedroHRFerreira&theme=dark&hide_border=true&border_radius=5&card_width=1000">
+         <a href="https://github.com/fabioHenri?tab=repositories">
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=fabioHenri&theme=juicyfresh&hide_langs_below=1" alt="fabioHenri github stats"/>
+            <img width="800" height="220" src="https://streak-stats.demolab.com/?user=fabioHenri&theme=dark&hide_border=true&border_radius=5&card_width=1000">
          </a>
     </div>
     <div align="left">
-      <a href="https://github.com/PedroHRFerreira?tab=repositories">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroHRFerreira&show_icons=true&locale=en&layout=compact&theme=dark" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroHRFerreira&show_icons=true&theme=dark&hide_height=27" alt="PedroHRFerreira github stats"/>
+      <a href="https://github.com/fabioHenri?tab=repositories">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioHenri&show_icons=true&locale=en&layout=compact&theme=dark" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabioHenri&show_icons=true&theme=dark&hide_height=27" alt="fabioHenri github stats"/>
       </a>
     </div>
 </details>
@@ -57,4 +54,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
