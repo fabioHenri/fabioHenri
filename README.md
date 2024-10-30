@@ -1,11 +1,10 @@
 My name is Fábio, I'm a Systems Analyst and digital content creator!
 
-
 ### Some statistics 
 <div>
     <div align="left">
          <a href="https://github.com/fabioHenri?tab=repositories">
-            <img width="800" height="220" src="https://streak-stats.demolab.com/?user=fabioHenri&theme=gotham&hide_border=true&border_radius=5&card_width=1000">
+            <img width="800" height="220" src="https://streak-stats.demolab.com/?user=fabioHenri&theme=dark&hide_border=true&border_radius=5&card_width=1000">
          </a>
     </div>
     <div align="left">
@@ -14,8 +13,7 @@ My name is Fábio, I'm a Systems Analyst and digital content creator!
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabioHenri&show_icons=true&theme=gotham&hide_height=27" alt="fabioHenri github stats"/>
       </a>
     </div>
-       </div>
-
+</div>
 
 ### Tools and languages
 ![Vue](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
