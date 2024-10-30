@@ -1,5 +1,4 @@
 My name is Fábio, I'm a Systems Analyst and digital content creator!
-
 ### Some statistics 
 <div>
     <div align="left">
